@@ -1,0 +1,16 @@
+{
+  "name": "envsteward",
+  "version": "1.0.0",
+  "description": "a website for my dad",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Joshua Seitz",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^3.21.2"
+  }
+}
